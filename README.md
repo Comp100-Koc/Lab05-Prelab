@@ -1,3 +1,5 @@
+# Lab 05: Strings -- Prelab
+
 # Note:
 - In this assignment you are NOT allowed to use built-in data structures
 such as lists and dictionaries.
